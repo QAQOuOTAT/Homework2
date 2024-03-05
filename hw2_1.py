@@ -5,7 +5,8 @@ Created on Tue Mar  5 00:05:59 2024
 @author: LAM Quincy
 """
 import math
-print('====================================','\ntype x to exit ')
+print('====================================','\nThis program is use to calculate \na circle. ')
+print('------------------------------------','\nType x to exit ')
 while True:
     try:
         print('====================================')
