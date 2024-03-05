@@ -5,7 +5,8 @@ Created on Tue Mar  5 00:25:29 2024
 @author: LAM Quincy
 """
 print('=======================================')
-print('This program is use to decide a number','\n\t (Even or Odd)','\nType x to exit ')
+print('This program is use to decide a number','\n\t (Even or Odd)')
+print('---------------------------------------','\nType x to exit ')
 print('=======================================')
 while True:
     try :

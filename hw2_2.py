@@ -4,7 +4,7 @@ Created on Tue Mar  5 00:05:59 2024
 
 @author: LAM Quincy
 """
-print('=======================================','\ntype x to exit','\n=======================================')
+print('=======================================','\nType x to exit','\n=======================================')
 while True:
     try :
         n=str(input('please input your name: '))
