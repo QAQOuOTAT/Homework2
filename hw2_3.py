@@ -18,10 +18,8 @@ while True:
             break
         print('---------------------------------------')
         num=int(x)  
-        if num==0:
-            print(x,'is an even number or odd number')
-        elif num%2==0:
-                print(x,'is an even number')
+        if num%2==0:
+            print(x,'is an even number')
         else:
             print(x,'is an odd number')
         print('=======================================')
